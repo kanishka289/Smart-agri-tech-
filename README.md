@@ -58,7 +58,7 @@ Arduino-based smart agriculture system that automates irrigation using soil mois
 ```
 
 ## 🗺️ Simulation Circuit
-![Simulation Workspace Image](simulation.png)
+![Simulation Workspace Image](IMG-20260925-WA0017.jpg)
 
 ## 📐 Circuit Schematics
 ![Circuit Diagram Schematic](schematic.png)
